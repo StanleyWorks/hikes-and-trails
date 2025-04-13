@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+
+@theme {
+	--color-ridge-green: oklch(44.58% 0.14 150);
+	--color-ridge-pine: oklch(53.2% 0.12 145);
+	--color-trail-dust: oklch(91% 0.06 90);
+	--color-trail-clay: oklch(59.6% 0.15 60);
+	--color-sky-haze: oklch(79.5% 0.07 220);
+	--color-bark-charcoal: oklch(18% 0.02 260);
+
+
+	/* ridge-green */
+	--color-primary: oklch(26.7% 0.045 170.65);
+	/* trail-clay */
+	--color-secondary: oklch(59.6% 0.15 60);
+	/* trail-dust */
+	--color-accent: oklch(85.8% 0.06 90);
+	/* sky-haze */
+	--color-muted: oklch(79.5% 0.07 220);
+	/* bark-charcoal */
+	--color-dark: oklch(18% 0.02 260);
+
+	--font-heading: "Cabinet Grotesk", sans-serif;
+	--font-body: "General Sans", sans-serif;
+}
