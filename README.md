@@ -60,8 +60,5 @@ Want to be listed here? Contribute something cool 🫶
 
 ⸻
 
-📄 License
+📄 License MIT
 
-TBD
-
----
