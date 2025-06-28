@@ -1,11 +1,11 @@
-# 🥾 Hikes and Trails
+# Hikes and Trails
 
 Welcome to **Hikes and Trails** — a community of techies who fight burnout by touching grass 🌱.  
 We organize spontaneous hikes across scenic routes to reconnect with nature, ourselves, and each other.
 
 ---
 
-## 🧭 What We're About
+## What We're About
 
 - **Community first**: Everyone’s welcome — devs, designers, thinkers, walkers.
 - **Spontaneity**: No rigid schedules. When the vibe is right, we move.
@@ -13,31 +13,31 @@ We organize spontaneous hikes across scenic routes to reconnect with nature, our
 
 ---
 
-## 🚀 How to Join
+## How to Join
 
 > Follow us on [Telegram](https://t.me/hikesandtrails)  
 > That’s where everything happens — plans, pics, polls, and people.
 
 ---
 
-## 📸 Photos & Recaps
+## Photos & Recaps
 
 We share memories from past hikes on our site (coming soon), and in the group.  
 Each hike earns you a digital badge — trail cred, verified.
 
 ---
 
-## 🧩 Built With
+## Built With
 
 This project uses:
 
-- 💨 Tailwind CSS v4 with custom `@theme`
-- 🌄 Custom color palette inspired by nature
-- 🌐 Simple static site (Nuxt + Laravel backend planned)
+- Tailwind CSS v4
+- Custom color palette inspired by nature
+- Simple static site (Nuxt + Laravel backend planned)
 
 ---
 
-## 🛠️ Contributing
+## Contributing
 
 We're building this in the open. Want to help?
 
