@@ -41,9 +41,9 @@ This project uses:
 
 We're building this in the open. Want to help?
 
-- 📥 Fork and clone the repo
-- 🎨 Add designs, copy, ideas — all welcome
-- 🔒 Respect the vibe
+- Fork and clone the repo
+- Add designs, copy, ideas — all welcome
+- Respect the vibe
 
 ```bash
 git clone git@github.com:StanleyWorks/hikes-and-trails.git
