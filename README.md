@@ -1,6 +1,6 @@
 # Hikes and Trails
 
-Welcome to **Hikes and Trails** — a community of techies who fight burnout by touching grass 🌱.  
+Welcome to **Hikes and Trails** — a community of techies who fight burnout by touching grass.  
 We organize spontaneous hikes across scenic routes to reconnect with nature, ourselves, and each other.
 
 ---
@@ -53,12 +53,12 @@ git clone git@github.com:StanleyWorks/hikes-and-trails.git
 
 ⸻
 
-👥 Credits
+Credits
 
 This project was started by [@StanleyMasinde](https://github.com/StanleyMasinde).
 Want to be listed here? Contribute something cool 🫶
 
 ⸻
 
-📄 License MIT
+License MIT
 
