@@ -1,6 +1,6 @@
 # Hikes and Trails
 
-Welcome to **Hikes and Trails** — a community of techies who fight burnout by touching grass.  
+Welcome to **Hikes and Trails** — a community of techies who fight burnout by touching grass.
 We organize spontaneous hikes across scenic routes to reconnect with nature, ourselves, and each other.
 
 ---
@@ -15,14 +15,14 @@ We organize spontaneous hikes across scenic routes to reconnect with nature, our
 
 ## How to Join
 
-> Follow us on [Telegram](https://t.me/hikesandtrails)  
+> Follow us on [Telegram](https://t.me/hikesandtrails)
 > That’s where everything happens — plans, pics, polls, and people.
 
 ---
 
 ## Photos & Recaps
 
-We share memories from past hikes on our site (coming soon), and in the group.  
+We share memories from past hikes on our site (coming soon), and in the group.
 Each hike earns you a digital badge — trail cred, verified.
 
 ---
@@ -32,8 +32,7 @@ Each hike earns you a digital badge — trail cred, verified.
 This project uses:
 
 - Tailwind CSS v4
-- Custom color palette inspired by nature
-- Simple static site (Nuxt + Laravel backend planned)
+- Simple static site (Nuxt planned)
 
 ---
 
@@ -56,7 +55,7 @@ git clone git@github.com:StanleyWorks/hikes-and-trails.git
 Credits
 
 This project was started by [@StanleyMasinde](https://github.com/StanleyMasinde).
-Want to be listed here? Contribute something cool 🫶
+Want to be listed here? Contribute something cool.
 
 ⸻
 
