@@ -31,7 +31,7 @@ Each hike earns you a digital badge — trail cred, verified.
 
 This project uses:
 
-- Tailwind CSS v4
+- Tailwind CSS
 - Simple static site (Nuxt planned)
 
 ---
